@@ -1,0 +1,47 @@
+* {
+    font-family: 'Lato', sans-serif;
+    }
+#header {
+    width: 90%;
+    max-width:960px;
+    border: 1px solid black;
+    margin: auto;
+} 
+#header h1 {
+    text-align: center;
+}
+
+#navbar {
+ width: 90%;
+ margin: auto;
+ text-align: center;
+ background-color:#e74c3c;
+ padding-top:10px;
+ padding-bottom:10px;
+
+ }
+
+#navbar a {
+   color: white;
+   text-decoration: none;
+   padding: 20px;
+}
+#navbar a:hover {
+  background-color: #2ecc71;
+}
+
+.post {
+ width: 90%;
+ max-width:960px;
+ text-align: center;
+ margin: auto;
+ box-shadow: #8e44ad;
+ padding: 20px;
+ box-sizing: border-box;
+ margin-top:40px;
+ box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+
+}
+#footer {
+text-align: center;
+}
