@@ -4,7 +4,7 @@
 #header {
     width: 90%;
     max-width:960px;
-    border: 1px solid black;
+    border: 10px solid #f5f106;
     margin: auto;
 } 
 #header h1 {
